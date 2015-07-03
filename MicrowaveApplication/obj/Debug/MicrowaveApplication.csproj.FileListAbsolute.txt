@@ -1,0 +1,152 @@
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.circuit.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.add_property.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.point_info.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.property.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.main_form.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.plot.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.Properties.Resources.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.s2pReader.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.settings.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.statistic.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.track_bars.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез СВЧ.exe
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.addProperty.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.main_form.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.s2pReader.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\Синтез_СВЧ.pointInfo.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.property.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.plot.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.settings.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\bin\Debug\Синтез СВЧ.exe.config
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.statistic.resources
+D:\github\MicrowaveSynthesis\Синтез СВЧ\Синтез СВЧ\obj\Debug\MicrowaveApplication.trackBars.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.property.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.plot.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.s2pReader.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.settings.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.statistic.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.trackBars.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.mainForm.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pointInfo.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.addProperty.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.circuit.resources
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.manifest
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.application
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe.manifest
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.application
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+D:\github\MicrowaveSynthesis\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.circuit.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.addProperty.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pointInfo.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.property.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.mainForm.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.plot.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.s2pReader.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.settings.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.statistic.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.trackBars.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReaderSettings.resources
+D:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PSettings.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Circuit.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.AddProperty.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.PointInfo.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Property.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.MainForm.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Plot.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReader.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReaderSettings.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PSettings.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Settings.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Statistic.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.TrackBars.resources
+C:\github\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Circuit.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.AddProperty.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.PointInfo.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Property.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.MainForm.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Plot.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReader.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReaderSettings.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PSettings.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Settings.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Statistic.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.TrackBars.resources
+D:\Проекты\MicrowaveApplication\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.PointInfo.resources
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Plot.resources
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.S2PReader.resources
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+D:\Проекты\MicrowaveApplication 2\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormAboutProgram.resources
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+C:\Users\Руслан\Documents\github\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormWaferMap.resources
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormPointInfo.resources
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormPlot.resources
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormMain.resources
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.manifest
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.application
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.TrustInfo.xml
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe.manifest
+C:\Users\Руслан\Documents\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.application
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.config
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe.manifest
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.application
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.exe
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\bin\Debug\MicrowaveApplication.pdb
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormAboutProgram.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormWaferMap.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormPointInfo.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormPlot.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.Properties.Resources.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.FormMain.resources
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.csproj.GenerateResource.Cache
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.TrustInfo.xml
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe.manifest
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.application
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.exe
+D:\GitHub\MicrowaveApplication\MicrowaveApplication\obj\Debug\MicrowaveApplication.pdb

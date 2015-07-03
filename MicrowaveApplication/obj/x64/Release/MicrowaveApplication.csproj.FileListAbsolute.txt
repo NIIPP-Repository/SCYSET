@@ -1,0 +1,13 @@
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\bin\x64\Release\Синтез СВЧ.exe.config
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\bin\x64\Release\Синтез СВЧ.exe
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\bin\x64\Release\Синтез СВЧ.pdb
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.circuit.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.main_form.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.plot.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.Properties.Resources.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.settings.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез_СВЧ.track_bars.resources
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез СВЧ.csproj.GenerateResource.Cache
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез СВЧ.exe
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез СВЧ.pdb
+D:\actual\НИИПП\Синтез СВЧ\Синтез СВЧ\obj\x64\Release\Синтез СВЧ.csprojResolveAssemblyReference.cache
